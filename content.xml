@@ -1,0 +1,2559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260509121109IIGPQH</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260509121109QDLHJ2</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Wild animals</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>English unit 4 for 5th grade</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Carmen Quintero Vázquez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Esta unidad trata de desarrollar un tema de inglés para el curso de 5º de Primaria que trata sobre los animales salvajes. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778317980261</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moy4lzb6-lfvta9ku5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Información para el profesorado</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📚 Teacher&apos;s corner (Guía)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Información para el profesorado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy4lzb6-lfvta9ku5</odePageId>
+      <odeBlockId>block-1778313654365-4t4o1xmd0</odeBlockId>
+      <blockName>Bienvenida</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzb6-lfvta9ku5</odePageId>
+          <odeBlockId>block-1778313654365-4t4o1xmd0</odeBlockId>
+          <odeIdeviceId>idevice-1778313654363-7eodhqjen</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Bienvenidos a este proyecto, en este apartado para profesores encontraréis información de interés para llevar a cabo este proyecto en el aula.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778313654363-7eodhqjen","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Bienvenidos a este proyecto, en este apartado para profesores encontraréis información de interés para llevar a cabo este proyecto en el aula.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy4lzb9-gwzdn6yhm</odePageId>
+  <odeParentPageId>page-moy4lzb6-lfvta9ku5</odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy4lzb9-gwzdn6yhm</odePageId>
+      <odeBlockId>block-1778170162706-f48y92qhw</odeBlockId>
+      <blockName>Presentación y descripción del proyecto</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzb9-gwzdn6yhm</odePageId>
+          <odeBlockId>block-1778170162706-f48y92qhw</odeBlockId>
+          <odeIdeviceId>idevice-1778170162700-sxmellto5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Buenas profes, aquí os dejo la información más relevante para comenzer nuestro proyecto de inglés </p>
+<ul>
+<li><strong>Título</strong>: Wild animals<br /></li>
+<li><strong>Centro de interés o temática:</strong> Los animales salvajes y la biodiversidad, enfocados en la descripción física y la comparación de especies.<br /></li>
+<li><strong>Nivel al que va dirigido:</strong> 5.º de Primaria <br /></li>
+<li><strong>Temporalización aproximada:</strong> 10 sesiones<br /></li>
+<li><strong>Materia o materias implicadas</strong>: Lengua extranjera Inglés<br /></li>
+<li><strong>Idioma</strong>: Inglés.</li>
+</ul>
+<p><br /><strong>Descripción general de lo que se pretende que el alumnado aprenda:</strong><br />El alumnado diseñará una "Enciclopedia Digital Comparativa". Aprenderán vocabulario de animales salvajes y la estructura gramatical de los adjetivos comparativos (bigger than, faster than...). El proceso culminará en un recurso de eXeLearning donde los alumnos insertarán sus propios desafíos interactivos creados tras investigar sobre diferentes animales.</p>
+<p><strong>Justificación basada en la Rutina de Pensamiento:</strong><br /></p>
+<ul>
+<li><strong>Resolución de problemas técnicos:</strong> Tras analizar el fallo de sincronización con Wayground en la Tarea 1.1, este proyecto utiliza eXeLearning como plataforma principal porque permite trabajar en modo local (sin internet) si fuera necesario, reduciendo el agobio por fallos de red.<br /></li>
+<li><strong>Gestión de la incertidumbre: </strong>He incluido roles de "Digital Assistants" en el aula para que, si surge un problema con los dispositivos (como el que viví con los códigos QR), los propios alumnos colaboren en la solución, fomentando su autonomía digital gracias a los alumnos más expertos en este aspecto. <br /></li>
+<li><strong>Metodología activa: </strong>Al igual que en la experiencia positiva con los escaneos de QR, este recurso incluye actividades de autoevaluación inmediata (iDevices de eXeLearning) para mantener la motivación y el dinamismo que tanto gusta a mis alumnos.<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778170162700-sxmellto5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Buenas profes, aquí os dejo la información más relevante para comenzer nuestro proyecto de inglés </p>\n<ul>\n<li><strong>Título</strong>: Wild animals<br /></li>\n<li><strong>Centro de interés o temática:</strong> Los animales salvajes y la biodiversidad, enfocados en la descripción física y la comparación de especies.<br /></li>\n<li><strong>Nivel al que va dirigido:</strong> 5.º de Primaria <br /></li>\n<li><strong>Temporalización aproximada:</strong> 10 sesiones<br /></li>\n<li><strong>Materia o materias implicadas</strong>: Lengua extranjera Inglés<br /></li>\n<li><strong>Idioma</strong>: Inglés.</li>\n</ul>\n<p><br /><strong>Descripción general de lo que se pretende que el alumnado aprenda:</strong><br />El alumnado diseñará una \"Enciclopedia Digital Comparativa\". Aprenderán vocabulario de animales salvajes y la estructura gramatical de los adjetivos comparativos (bigger than, faster than...). El proceso culminará en un recurso de eXeLearning donde los alumnos insertarán sus propios desafíos interactivos creados tras investigar sobre diferentes animales.</p>\n<p><strong>Justificación basada en la Rutina de Pensamiento:</strong><br /></p>\n<ul>\n<li><strong>Resolución de problemas técnicos:</strong> Tras analizar el fallo de sincronización con Wayground en la Tarea 1.1, este proyecto utiliza eXeLearning como plataforma principal porque permite trabajar en modo local (sin internet) si fuera necesario, reduciendo el agobio por fallos de red.<br /></li>\n<li><strong>Gestión de la incertidumbre: </strong>He incluido roles de \"Digital Assistants\" en el aula para que, si surge un problema con los dispositivos (como el que viví con los códigos QR), los propios alumnos colaboren en la solución, fomentando su autonomía digital gracias a los alumnos más expertos en este aspecto. <br /></li>\n<li><strong>Metodología activa: </strong>Al igual que en la experiencia positiva con los escaneos de QR, este recurso incluye actividades de autoevaluación inmediata (iDevices de eXeLearning) para mantener la motivación y el dinamismo que tanto gusta a mis alumnos.<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy4lzba-wy3vjtj7k</odePageId>
+  <odeParentPageId>page-moy4lzb6-lfvta9ku5</odeParentPageId>
+  <pageName>Curación de enlaces para maestros</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de enlaces para maestros</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de enlaces para maestros</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy4lzba-wy3vjtj7k</odePageId>
+      <odeBlockId>block-1778311183989-0g2jgxj31</odeBlockId>
+      <blockName>Symbaloo: enlaces de interés para maestros</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzba-wy3vjtj7k</odePageId>
+          <odeBlockId>block-1778311183989-0g2jgxj31</odeBlockId>
+          <odeIdeviceId>idevice-1778311183988-hsvd7rwxq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.symbaloo.com/shared/AAAAAbTeR4AAA41-5EM5SA==" title=""><img src="{{context_path}}/content/resources/symbaloo.png" width="947" height="649" alt="Symbaloo curación de contenidos para maestros" /></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778311183988-hsvd7rwxq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/shared/AAAAAbTeR4AAA41-5EM5SA==\" title=\"\"><img src=\"{{context_path}}/content/resources/symbaloo.png\" width=\"947\" height=\"649\" alt=\"Symbaloo curación de contenidos para maestros\" /></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy4lzbb-9bt3xdkl6</odePageId>
+  <odeParentPageId>page-moy4lzb6-lfvta9ku5</odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy4lzbb-9bt3xdkl6</odePageId>
+      <odeBlockId>block-1778188943150-54fo398tx</odeBlockId>
+      <blockName>Criterios de evaluacion</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbb-9bt3xdkl6</odePageId>
+          <odeBlockId>block-1778188943150-54fo398tx</odeBlockId>
+          <odeIdeviceId>idevice-1778188943141-mou1ljq7h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><embed width="1000" height="500" src="{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluación.pdf" type="application/pdf"></embed>   </p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778188943141-mou1ljq7h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"1000\" height=\"500\" src=\"{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluación.pdf\" type=\"application/pdf\"></embed>   </p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moy4lzbb-9bt3xdkl6</odePageId>
+      <odeBlockId>block-1778312119531-ojz6gsdau</odeBlockId>
+      <blockName>Guía didáctica con relación curricular</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbb-9bt3xdkl6</odePageId>
+          <odeBlockId>block-1778312119531-ojz6gsdau</odeBlockId>
+          <odeIdeviceId>idevice-1778312119527-8vdn9n2rv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Guía Didáctica: "The Wildest Challenge"</strong></p>
+<p><strong>Nivel</strong>: 5.º Educación Primaria</p>
+<p><strong>Área</strong>: Lengua Extranjera (Inglés)</p>
+<p><strong>Temporalización</strong>: 8 Sesiones</p>
+<p><strong>Justificación y Contextualización</strong><br />Esta Unidad Competencial está diseñada para el alumnado de 5.º curso de Educación Primaria en el área de Lengua Extranjera (Inglés). El proyecto integra el aprendizaje de saberes básicos lingüísticos con el desarrollo de la competencia digital, culminando en la creación de un producto final multimodal (Ficha técnica en Canva) que fomenta la creatividad y la responsabilidad en la red.</p>
+<p><strong>Desarrollo curricular</strong></p>
+<ul>
+<li><strong>Competencias clave</strong>
+<ul>
+<li>CCL: competencia en comunicación lingüistica</li>
+<li>CD: competencia digital</li>
+<li>CP: competencia plurilingüe</li>
+</ul>
+</li>
+<li><strong>Objetivos de Etapa</strong>
+<ul>
+<li>Objetivo f): Adquirir en, al menos, una lengua extranjera la competencia comunicativa básica que les permita expresar y comprender mensajes sencillos y desenvolverse en situaciones cotidianas.</li>
+<li>Objetivo i): Iniciarse en la utilización, para el aprendizaje, de las tecnologías de la información y la comunicación desarrollando un espíritu crítico ante los mensajes que reciben y elaboran.</li>
+<li>Objetivo l): Conocer y valorar los animales próximos al ser humano y adoptar modos de comportamiento que favorezcan su cuidado.</li>
+</ul>
+</li>
+<li><strong>Competencias Específicas y Criterios de Evaluación</strong>
+<ul>
+<li>Competencia Específica 1: A través del "Safari de Investigación", el alumnado debe interpretar el sentido global y palabras específicas de textos sobre hábitats, cumpliendo el Criterio 1.1.</li>
+<li>Competencia Específica 2: La exposición oral final busca que el alumnado exprese textos preparados sobre sus animales, aplicando el Criterio 2.1.</li>
+<li>Competencia Específica 3: El uso de Canva para redactar comparaciones permite organizar y redactar textos breves en formato digital, cumpliendo el Criterio 3.1.</li>
+<li>Competencia Específica 5: Mediante el taller de ciberseguridad, se trabaja el uso guiado y ético de las herramientas digitales, evaluado bajo el Criterio 5.2.</li>
+</ul>
+</li>
+<li><strong>Desafíos del Siglo XXI y ODS</strong><br />
+<ul>
+<li>Alfabetización Digital<br /></li>
+<li>Sostenibilidad y Medio Ambiente<br /></li>
+<li>ODS 4: Educación de calidad</li>
+<li>ODS 15: vida y ecosistemas terrestres</li>
+</ul>
+</li>
+</ul>
+<p><strong>Orientaciones Metodológicas y DUA</strong><br />Se aplica el Diseño Universal para el Aprendizaje (DUA) para garantizar la inclusión:</p>
+<ul>
+<li>Múltiples formas de representación: Uso de muros visuales (Padlet), vídeos y textos adaptados.<br />Múltiples formas de acción y expresión: El alumnado puede demostrar su aprendizaje mediante el diseño gráfico, la expresión escrita o la grabación de audio en Canva.</li>
+<li>Múltiples formas de motivación: presentando un reto motivador a través de actividades interactivas de interés</li>
+</ul>
+<p><strong>Recomendaciones para la Implementación</strong><br />Para los docentes que deseen aplicar este recurso, se recomienda fomentar la figura de los "Ayudantes Digitales", alumnos con mayor destreza que apoyan a sus compañeros en la resolución de problemas técnicos básicos. Asimismo, es fundamental disponer del archivo fuente de eXeLearning (.elp) en formato local para asegurar la continuidad de la clase ante posibles caídas de la conexión a internet.</p>
+<p><strong>Evaluación</strong><br />La evaluación es continua y formativa. Se han diseñado instrumentos específicos como una lista de cotejo o un test en Wayground para facilitar la evaluación de los diferentes criterios, así como un análisis del progreso para ayudar al alumnado a seguir el contenido. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778312119527-8vdn9n2rv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Guía Didáctica: \"The Wildest Challenge\"</strong></p>\n<p><strong>Nivel</strong>: 5.º Educación Primaria</p>\n<p><strong>Área</strong>: Lengua Extranjera (Inglés)</p>\n<p><strong>Temporalización</strong>: 8 Sesiones</p>\n<p><strong>Justificación y Contextualización</strong><br />Esta Unidad Competencial está diseñada para el alumnado de 5.º curso de Educación Primaria en el área de Lengua Extranjera (Inglés). El proyecto integra el aprendizaje de saberes básicos lingüísticos con el desarrollo de la competencia digital, culminando en la creación de un producto final multimodal (Ficha técnica en Canva) que fomenta la creatividad y la responsabilidad en la red.</p>\n<p><strong>Desarrollo curricular</strong></p>\n<ul>\n<li><strong>Competencias clave</strong>\n<ul>\n<li>CCL: competencia en comunicación lingüistica</li>\n<li>CD: competencia digital</li>\n<li>CP: competencia plurilingüe</li>\n</ul>\n</li>\n<li><strong>Objetivos de Etapa</strong>\n<ul>\n<li>Objetivo f): Adquirir en, al menos, una lengua extranjera la competencia comunicativa básica que les permita expresar y comprender mensajes sencillos y desenvolverse en situaciones cotidianas.</li>\n<li>Objetivo i): Iniciarse en la utilización, para el aprendizaje, de las tecnologías de la información y la comunicación desarrollando un espíritu crítico ante los mensajes que reciben y elaboran.</li>\n<li>Objetivo l): Conocer y valorar los animales próximos al ser humano y adoptar modos de comportamiento que favorezcan su cuidado.</li>\n</ul>\n</li>\n<li><strong>Competencias Específicas y Criterios de Evaluación</strong>\n<ul>\n<li>Competencia Específica 1: A través del \"Safari de Investigación\", el alumnado debe interpretar el sentido global y palabras específicas de textos sobre hábitats, cumpliendo el Criterio 1.1.</li>\n<li>Competencia Específica 2: La exposición oral final busca que el alumnado exprese textos preparados sobre sus animales, aplicando el Criterio 2.1.</li>\n<li>Competencia Específica 3: El uso de Canva para redactar comparaciones permite organizar y redactar textos breves en formato digital, cumpliendo el Criterio 3.1.</li>\n<li>Competencia Específica 5: Mediante el taller de ciberseguridad, se trabaja el uso guiado y ético de las herramientas digitales, evaluado bajo el Criterio 5.2.</li>\n</ul>\n</li>\n<li><strong>Desafíos del Siglo XXI y ODS</strong><br />\n<ul>\n<li>Alfabetización Digital<br /></li>\n<li>Sostenibilidad y Medio Ambiente<br /></li>\n<li>ODS 4: Educación de calidad</li>\n<li>ODS 15: vida y ecosistemas terrestres</li>\n</ul>\n</li>\n</ul>\n<p><strong>Orientaciones Metodológicas y DUA</strong><br />Se aplica el Diseño Universal para el Aprendizaje (DUA) para garantizar la inclusión:</p>\n<ul>\n<li>Múltiples formas de representación: Uso de muros visuales (Padlet), vídeos y textos adaptados.<br />Múltiples formas de acción y expresión: El alumnado puede demostrar su aprendizaje mediante el diseño gráfico, la expresión escrita o la grabación de audio en Canva.</li>\n<li>Múltiples formas de motivación: presentando un reto motivador a través de actividades interactivas de interés</li>\n</ul>\n<p><strong>Recomendaciones para la Implementación</strong><br />Para los docentes que deseen aplicar este recurso, se recomienda fomentar la figura de los \"Ayudantes Digitales\", alumnos con mayor destreza que apoyan a sus compañeros en la resolución de problemas técnicos básicos. Asimismo, es fundamental disponer del archivo fuente de eXeLearning (.elp) en formato local para asegurar la continuidad de la clase ante posibles caídas de la conexión a internet.</p>\n<p><strong>Evaluación</strong><br />La evaluación es continua y formativa. Se han diseñado instrumentos específicos como una lista de cotejo o un test en Wayground para facilitar la evaluación de los diferentes criterios, así como un análisis del progreso para ayudar al alumnado a seguir el contenido. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy4lzbc-o9cz1pshg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Stay Safe Online! Protección de datos personales y garantías de derechos digitales.</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Stay Safe Online! Protección de datos personales y garantías de derechos digitales.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🛡️ Stay Safe Online!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Stay Safe Online! Protección de datos personales y garantías de derechos digitales.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy4lzbc-o9cz1pshg</odePageId>
+      <odeBlockId>block-1778171608408-ouei4245b</odeBlockId>
+      <blockName>Mi seguridad online es importante</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbc-o9cz1pshg</odePageId>
+          <odeBlockId>block-1778171608408-ouei4245b</odeBlockId>
+          <odeIdeviceId>idevice-1778171608407-ziv20htn1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Before starting! <br /><br />Antes de empezar tenemos que cuidar de nuestra seguridad en Internet. Sigue estas directrices:</p>
+<figure class="exe-figure position-center" style="width: 800px;"><img src="{{context_path}}/content/resources/Infografia seguridad digital.png" title="Mi seguridad online" width="800" height="2000" alt="Pasos a seguir para la seguridad online" />
+<figcaption class="figcaption"><span class="title"><em>Imagen creada por Carmen Quintero</em></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778171608407-ziv20htn1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Before starting! <br /><br />Antes de empezar tenemos que cuidar de nuestra seguridad en Internet. Sigue estas directrices:</p>\n<figure class=\"exe-figure position-center\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/Infografia seguridad digital.png\" title=\"Mi seguridad online\" width=\"800\" height=\"2000\" alt=\"Pasos a seguir para la seguridad online\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Imagen creada por Carmen Quintero</em></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy4lzbc-aga06wmt2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Welcome to the wild! Proyecto</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Welcome to the wild! Proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🏠 Welcome to the wild!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Welcome to the wild! Proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy4lzbc-aga06wmt2</odePageId>
+      <odeBlockId>block-1778140860828-6yjpndbw2</odeBlockId>
+      <blockName>Welcome to the Wildest Challenge!</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbc-aga06wmt2</odePageId>
+          <odeBlockId>block-1778140860828-6yjpndbw2</odeBlockId>
+          <odeIdeviceId>idevice-1778140860827-z1l3ljoct</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Hello explorers!</p>
+<p>Are you ready to discover the most amazing wild animals?</p>
+<p>In this project, we are going to create a <strong>Digital Encyclopedia</strong>.</p>
+<figure class="exe-figure position-center" style="width: 1524px;"><img src="{{context_path}}/content/resources/2109.q710.014.F.m005.c5.jungle color set.jpg" title="Wild animals" width="1524" height="508" alt="Wild animals" />
+<figcaption class="figcaption"><span class="license"><span class="sep">Imagen de Freepik (</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778140860827-z1l3ljoct","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hello explorers!</p>\n<p>Are you ready to discover the most amazing wild animals?</p>\n<p>In this project, we are going to create a <strong>Digital Encyclopedia</strong>.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1524px;\"><img src=\"{{context_path}}/content/resources/2109.q710.014.F.m005.c5.jungle color set.jpg\" title=\"Wild animals\" width=\"1524\" height=\"508\" alt=\"Wild animals\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"sep\">Imagen de Freepik (</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy4lzbd-i98xuhbig</odePageId>
+  <odeParentPageId>page-moy4lzbc-aga06wmt2</odeParentPageId>
+  <pageName>Tarea final descripción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea final descripción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea final descripción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy4lzbd-i98xuhbig</odePageId>
+      <odeBlockId>block-1778188666807-ywfh91yj8</odeBlockId>
+      <blockName>Descripción de la tarea final</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbd-i98xuhbig</odePageId>
+          <odeBlockId>block-1778188666807-ywfh91yj8</odeBlockId>
+          <odeIdeviceId>idevice-1778186968448-84sac0qyq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>MISSION: Create your Digital Fact File</strong></p>
+<p>Hello explorers!</p>
+<p>Vuestra misión final es crear ficha técnicas digitales sobre animales salvajes usando Canva. Demostrad todo lo que sabéis sobre la naturaleza y vuestro nivel de inglés.</p>
+<p><br /></p>
+<p><strong>¿Qué debe tener tu ficha en Canva?</strong> Your Checklist:</p>
+<ul>
+<li><strong>Picture</strong>: Una foto increíble de tu animal (recuerda usar imágenes libres).<br /></li>
+<li><strong>Characteristics</strong>: escribe curiosidades y características sobre el animal que has elegido</li>
+<li><strong>Comparisons</strong>: Al menos 3 frases comparando a tu animal con otro. Usa la estructura: "The [animal 1] is [adjective]-er than [animal 2]".<br /></li>
+<li><strong>Speaking</strong>: ¡Usa el micrófono de Canva! Graba tu voz leyendo tus frases con buena pronunciación.</li>
+</ul>
+<p><br /><strong>Pasos para el éxito (Steps to success)</strong>:</p>
+<ul>
+<li>Investiga en nuestro Padlet de clase.<br /></li>
+<li>Diseña tu ficha buscando diseños que te gusten</li>
+<li>Usa letras claras y colores bonitos.<br /></li>
+<li>Graba tu audio y revisa que se escuche bien.<br /></li>
+<li>Publica tu trabajo siguiendo las normas de seguridad digital.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778186968448-84sac0qyq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>MISSION: Create your Digital Fact File</strong></p>\n<p>Hello explorers!</p>\n<p>Vuestra misión final es crear ficha técnicas digitales sobre animales salvajes usando Canva. Demostrad todo lo que sabéis sobre la naturaleza y vuestro nivel de inglés.</p>\n<p><br /></p>\n<p><strong>¿Qué debe tener tu ficha en Canva?</strong> Your Checklist:</p>\n<ul>\n<li><strong>Picture</strong>: Una foto increíble de tu animal (recuerda usar imágenes libres).<br /></li>\n<li><strong>Characteristics</strong>: escribe curiosidades y características sobre el animal que has elegido</li>\n<li><strong>Comparisons</strong>: Al menos 3 frases comparando a tu animal con otro. Usa la estructura: \"The [animal 1] is [adjective]-er than [animal 2]\".<br /></li>\n<li><strong>Speaking</strong>: ¡Usa el micrófono de Canva! Graba tu voz leyendo tus frases con buena pronunciación.</li>\n</ul>\n<p><br /><strong>Pasos para el éxito (Steps to success)</strong>:</p>\n<ul>\n<li>Investiga en nuestro Padlet de clase.<br /></li>\n<li>Diseña tu ficha buscando diseños que te gusten</li>\n<li>Usa letras claras y colores bonitos.<br /></li>\n<li>Graba tu audio y revisa que se escuche bien.<br /></li>\n<li>Publica tu trabajo siguiendo las normas de seguridad digital.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy4lzbe-gnm0mba3r</odePageId>
+  <odeParentPageId>page-moy4lzbc-aga06wmt2</odeParentPageId>
+  <pageName>Enlaces de interés</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Enlaces de interés</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Enlaces de interés</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy4lzbe-gnm0mba3r</odePageId>
+      <odeBlockId>block-1778187685905-og7fajgw4</odeBlockId>
+      <blockName>Padlet de enlaces de ayuda para el proyecto</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbe-gnm0mba3r</odePageId>
+          <odeBlockId>block-1778187685905-og7fajgw4</odeBlockId>
+          <odeIdeviceId>idevice-1778187685903-ds2c7ib66</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/carquinvaz2/curaci-n-para-el-alumnado-wild-animals-r0bwfruc3xpkbb4s" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy4lzbf-0pbu8ktuf</odePageId>
+  <odeParentPageId>page-moy4lzbc-aga06wmt2</odeParentPageId>
+  <pageName>Project Roadmap</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Project Roadmap</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🗓️ Project Roadmap</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Project Roadmap</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy4lzbf-0pbu8ktuf</odePageId>
+      <odeBlockId>block-1778188387841-99zpsq4pp</odeBlockId>
+      <blockName>Cronograma de la unidad</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbf-0pbu8ktuf</odePageId>
+          <odeBlockId>block-1778188387841-99zpsq4pp</odeBlockId>
+          <odeIdeviceId>idevice-1778188387840-vwvph75b0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/7.1. Infografia sesiones.png" title="Sesiones" width="1414" height="2000" alt="Sesiones de la unidad" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778188387840-vwvph75b0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/7.1. Infografia sesiones.png\" title=\"Sesiones\" width=\"1414\" height=\"2000\" alt=\"Sesiones de la unidad\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy4lzbg-cg013mtjc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesiones</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🔍 Research Lab</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesiones</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy4lzbg-cg013mtjc</odePageId>
+      <odeBlockId>block-1778313780823-vz3kdadjr</odeBlockId>
+      <blockName>Sesiones</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbg-cg013mtjc</odePageId>
+          <odeBlockId>block-1778313780823-vz3kdadjr</odeBlockId>
+          <odeIdeviceId>idevice-1778313780822-jo4ao6geg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Navega por las diferentes sesiones hasta completar el proyecto</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778313780822-jo4ao6geg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Navega por las diferentes sesiones hasta completar el proyecto</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy4lzbg-5wlrr8q66</odePageId>
+  <odeParentPageId>page-moy4lzbg-cg013mtjc</odeParentPageId>
+  <pageName>Sesión 1: Vocabulary</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1: Vocabulary</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1: Vocabulary</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy4lzbg-5wlrr8q66</odePageId>
+      <odeBlockId>block-1778253885157-2a551ucwv</odeBlockId>
+      <blockName>Flashcards</blockName>
+      <iconName>english</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbg-5wlrr8q66</odePageId>
+          <odeBlockId>block-1778253885157-2a551ucwv</odeBlockId>
+          <odeIdeviceId>idevice-1778253885155-sp01q7rn0</odeIdeviceId>
+          <odeIdeviceTypeName>flipcards</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="flipcards-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1778253885155-sp01q7rn0" data-evaluationb="true" data-evaluationid="5d18ad84-8609-4cac-86d4-766aa51da5c2"></div><div class="flipcards-instructions"><p>Pulsa sobre las tarjetas para descubrir qué esconden.</p></div><div class="flipcards-DataGame js-hidden">{"typeGame":"FlipCards","author":"","randomCards":true,"instructions":"<p>Pulsa sobre las tarjetas para descubrir qué esconden.</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"{{context_path}}/content/resources/young-olive-baboon-national-park-kenya-africa.jpg","x":0.5856681034482759,"y":0.646551724137931,"author":"Image by wirestock on Magnific","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"{{context_path}}/content/resources/audio-rec-20260508-172832.webm","colorBk":"#000000","backcolorBk":"#a8ffbe","eTextBk":"Baboon"},{"url":"{{context_path}}/content/resources/vertical-closeup-chimpanzees-sitting-rock-sunny-day.jpg","x":0,"y":0,"author":"Imagen de wirestock en Magnific","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"{{context_path}}/content/resources/audio-rec-20260508-173033.webm","colorBk":"#000000","backcolorBk":"#dfffd1","eTextBk":"Chimpanzee"},{"url":"{{context_path}}/content/resources/portrait-gorilla-leaning-rock-park-sunlight.jpg","x":0,"y":0,"author":"Image by wirestock on Magnific","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"{{context_path}}/content/resources/audio-rec-20260508-173149.webm","colorBk":"#000000","backcolorBk":"#e5ffeb","eTextBk":"Gorilla"},{"url":"{{context_path}}/content/resources/beautiful-shot-african-leopard-resting-rock-with-blurred-background.jpg","x":0,"y":0,"author":"Image by wirestock on Magnific","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"{{context_path}}/content/resources/audio-rec-20260508-173637.webm","colorBk":"#000000","backcolorBk":"#c7ffd0","eTextBk":"Leopard"},{"url":"{{context_path}}/content/resources/WhatsApp Image 2026-05-08 at 17.39.09.jpeg","x":0,"y":0,"author":"Image by wirestock on Magnific","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"{{context_path}}/content/resources/audio-rec-20260508-175813.webm","colorBk":"#000000","backcolorBk":"#d2fee7","eTextBk":"Scorpion"},{"url":"{{context_path}}/content/resources/WhatsApp Image 2026-05-08 at 17.46.29.jpeg","x":0,"y":0,"author":"Image by wirestock on Magnific","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"{{context_path}}/content/resources/audio-rec-20260508-175803.webm","colorBk":"#000000","backcolorBk":"#ccffdb","eTextBk":"Cheetah"},{"url":"{{context_path}}/content/resources/WhatsApp Image 2026-05-08 at 17.41.25.jpeg","x":0,"y":0,"author":"Image by wirestock on Magnific","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"{{context_path}}/content/resources/audio-rec-20260508-175754.webm","colorBk":"#000000","backcolorBk":"#b4fdc3","eTextBk":"Camel"},{"url":"{{context_path}}/content/resources/WhatsApp Image 2026-05-08 at 17.42.11.jpeg","x":0,"y":0,"author":"Image by wirestock on Magnific","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"{{context_path}}/content/resources/audio-rec-20260508-175745.webm","colorBk":"#000000","backcolorBk":"#a7fbc7","eTextBk":"Lion"},{"url":"{{context_path}}/content/resources/WhatsApp Image 2026-05-08 at 17.43.05.jpeg","x":0,"y":0,"author":"Image by wirestock on Magnific","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"{{context_path}}/content/resources/audio-rec-20260508-175735.webm","colorBk":"#000000","backcolorBk":"#dbffdf","eTextBk":"Cobra"},{"url":"{{context_path}}/content/resources/WhatsApp Image 2026-05-08 at 17.43.39.jpeg","x":0,"y":0,"author":"Image by wirestock on Magnific","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"{{context_path}}/content/resources/audio-rec-20260508-175715.webm","colorBk":"#000000","backcolorBk":"#ccffe0","eTextBk":"Hippopotamus"},{"url":"{{context_path}}/content/resources/WhatsApp Image 2026-05-08 at 17.45.37.jpeg","x":0,"y":0,"author":"Image by wirestock on Magnific","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"{{context_path}}/content/resources/audio-rec-20260508-175644.webm","colorBk":"#000000","backcolorBk":"#ccffe5","eTextBk":"Rhinoceros"}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","percentajeCards":100,"version":1.3,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":true,"evaluationID":"5d18ad84-8609-4cac-86d4-766aa51da5c2","imgCard":"","id":"idevice-1778253885155-sp01q7rn0","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayAgain":"Jugar otra vez","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgWeight":"Peso","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgCool":"¡Bien!","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgSuccesses":"¡Correcto! | ¡Excelente! | ¡Genial! | ¡Muy bien! | ¡Perfecto!","msgFailures":"¡No era eso! | ¡Incorrecto! | ¡No es correcto! | ¡Lo sentimos! | ¡Error!","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgPreviousCard":"Anterior","msgNextCard":"Siguiente","msgNumQuestions":"Número de tarjetas","msgTrue":"Verdadero","msgFalse":"Falso","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","mgsAllQuestions":"¡Completadas las preguntas!","msgTrue1":"Has acertado. Es la cara correcta.","msgTrue2":"Has fallado. No es la cara correcta.","msgFalse1":"Has acertado. No es la cara correcta.","msgFalse2":"Has fallado. Es la cara correcta.","mgsClickCard":"Pulsa en la tarjeta","msgEndTime":"Acabó el tiempo de juego. Tu puntuación es %s.","msgEnd":"Finalizar","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Tarjetas de memoria"}}</div><a href="{{context_path}}/content/resources/young-olive-baboon-national-park-kenya-africa.jpg" class="js-hidden flipcards-LinkImages">0</a><a href="{{context_path}}/content/resources/audio-rec-20260508-172832.webm" class="js-hidden flipcards-LinkAudiosBack">0</a><a href="{{context_path}}/content/resources/vertical-closeup-chimpanzees-sitting-rock-sunny-day.jpg" class="js-hidden flipcards-LinkImages">1</a><a href="{{context_path}}/content/resources/audio-rec-20260508-173033.webm" class="js-hidden flipcards-LinkAudiosBack">1</a><a href="{{context_path}}/content/resources/portrait-gorilla-leaning-rock-park-sunlight.jpg" class="js-hidden flipcards-LinkImages">2</a><a href="{{context_path}}/content/resources/audio-rec-20260508-173149.webm" class="js-hidden flipcards-LinkAudiosBack">2</a><a href="{{context_path}}/content/resources/beautiful-shot-african-leopard-resting-rock-with-blurred-background.jpg" class="js-hidden flipcards-LinkImages">3</a><a href="{{context_path}}/content/resources/audio-rec-20260508-173637.webm" class="js-hidden flipcards-LinkAudiosBack">3</a><a href="{{context_path}}/content/resources/WhatsApp Image 2026-05-08 at 17.39.09.jpeg" class="js-hidden flipcards-LinkImages">4</a><a href="{{context_path}}/content/resources/audio-rec-20260508-175813.webm" class="js-hidden flipcards-LinkAudiosBack">4</a><a href="{{context_path}}/content/resources/WhatsApp Image 2026-05-08 at 17.46.29.jpeg" class="js-hidden flipcards-LinkImages">5</a><a href="{{context_path}}/content/resources/audio-rec-20260508-175803.webm" class="js-hidden flipcards-LinkAudiosBack">5</a><a href="{{context_path}}/content/resources/WhatsApp Image 2026-05-08 at 17.41.25.jpeg" class="js-hidden flipcards-LinkImages">6</a><a href="{{context_path}}/content/resources/audio-rec-20260508-175754.webm" class="js-hidden flipcards-LinkAudiosBack">6</a><a href="{{context_path}}/content/resources/WhatsApp Image 2026-05-08 at 17.42.11.jpeg" class="js-hidden flipcards-LinkImages">7</a><a href="{{context_path}}/content/resources/audio-rec-20260508-175745.webm" class="js-hidden flipcards-LinkAudiosBack">7</a><a href="{{context_path}}/content/resources/WhatsApp Image 2026-05-08 at 17.43.05.jpeg" class="js-hidden flipcards-LinkImages">8</a><a href="{{context_path}}/content/resources/audio-rec-20260508-175735.webm" class="js-hidden flipcards-LinkAudiosBack">8</a><a href="{{context_path}}/content/resources/WhatsApp Image 2026-05-08 at 17.43.39.jpeg" class="js-hidden flipcards-LinkImages">9</a><a href="{{context_path}}/content/resources/audio-rec-20260508-175715.webm" class="js-hidden flipcards-LinkAudiosBack">9</a><a href="{{context_path}}/content/resources/WhatsApp Image 2026-05-08 at 17.45.37.jpeg" class="js-hidden flipcards-LinkImages">10</a><a href="{{context_path}}/content/resources/audio-rec-20260508-175644.webm" class="js-hidden flipcards-LinkAudiosBack">10</a><div class="flipcards-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moy4lzbg-5wlrr8q66</odePageId>
+      <odeBlockId>block-1778255452333-do17sruqn</odeBlockId>
+      <blockName>Vocabulary games</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbg-5wlrr8q66</odePageId>
+          <odeBlockId>block-1778255452333-do17sruqn</odeBlockId>
+          <odeIdeviceId>idevice-1778255452330-nzn0vcf1k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><iframe width="500" height="380" style="max-width: 100%;" src="https://wordwall.net/es/embed/8faff137afa14b62b354871fbbd25fef?themeId=65&templateId=25&fontStackId=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><br /></p>
+<p><br /></p>
+<p><iframe width="500" height="380" style="max-width: 100%;" src="https://wordwall.net/es/embed/01b331ee01f04872b38b140db889b08a?themeId=23&templateId=49&fontStackId=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><iframe width="500" height="380" style="max-width: 100%;" src="https://wordwall.net/es/embed/9b51b40af1d24e0481370e70dfbc5838?themeId=2&templateId=10&fontStackId=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><br /></p>
+<p><br /></p>
+<p><iframe width="500" height="380" style="max-width: 100%;" src="https://wordwall.net/es/embed/6a737e90ea6148c991309f97414294ef?themeId=1&templateId=38&fontStackId=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778255452330-nzn0vcf1k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><iframe width=\"500\" height=\"380\" style=\"max-width: 100%;\" src=\"https://wordwall.net/es/embed/8faff137afa14b62b354871fbbd25fef?themeId=65&templateId=25&fontStackId=0\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><br /></p>\n<p><br /></p>\n<p><iframe width=\"500\" height=\"380\" style=\"max-width: 100%;\" src=\"https://wordwall.net/es/embed/01b331ee01f04872b38b140db889b08a?themeId=23&templateId=49&fontStackId=0\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><iframe width=\"500\" height=\"380\" style=\"max-width: 100%;\" src=\"https://wordwall.net/es/embed/9b51b40af1d24e0481370e70dfbc5838?themeId=2&templateId=10&fontStackId=0\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><br /></p>\n<p><br /></p>\n<p><iframe width=\"500\" height=\"380\" style=\"max-width: 100%;\" src=\"https://wordwall.net/es/embed/6a737e90ea6148c991309f97414294ef?themeId=1&templateId=38&fontStackId=0\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy4lzbh-9fkm7abbg</odePageId>
+  <odeParentPageId>page-moy4lzbg-cg013mtjc</odeParentPageId>
+  <pageName>Sesión 2: Grammar</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2: Grammar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2: Grammar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy4lzbh-9fkm7abbg</odePageId>
+      <odeBlockId>block-1778256420141-vji1alqy7</odeBlockId>
+      <blockName>Comparative adjectives</blockName>
+      <iconName>english</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbh-9fkm7abbg</odePageId>
+          <odeBlockId>block-1778256420141-vji1alqy7</odeBlockId>
+          <odeIdeviceId>idevice-1778256420136-ewrrw1nsx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 410px;"><img src="{{context_path}}/content/resources/comparatives.gif" title="Comparative adjectives" width="410" height="295" alt="Comparative adjectives" />
+<figcaption class="figcaption"><a href="https://cprada.educacion.navarra.es/radasenglishcorner/2018/11/27/comparative-adjectives/" class="author" target="_blank" rel="noopener">https://cprada.educacion.navarra.es/radasenglishcorner/2018/11/27/comparative-adjectives/</a>.</figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778256420136-ewrrw1nsx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 410px;\"><img src=\"{{context_path}}/content/resources/comparatives.gif\" title=\"Comparative adjectives\" width=\"410\" height=\"295\" alt=\"Comparative adjectives\" />\n<figcaption class=\"figcaption\"><a href=\"https://cprada.educacion.navarra.es/radasenglishcorner/2018/11/27/comparative-adjectives/\" class=\"author\" target=\"_blank\" rel=\"noopener\">https://cprada.educacion.navarra.es/radasenglishcorner/2018/11/27/comparative-adjectives/</a>.</figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moy4lzbh-9fkm7abbg</odePageId>
+      <odeBlockId>block-1778309555226-3obiosbqv</odeBlockId>
+      <blockName>Grammar practice</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbh-9fkm7abbg</odePageId>
+          <odeBlockId>block-1778309555226-3obiosbqv</odeBlockId>
+          <odeIdeviceId>idevice-1778309555225-0rolwtgzn</odeIdeviceId>
+          <odeIdeviceTypeName>classify</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="clasifica-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1778309555225-0rolwtgzn" data-evaluationb="true" data-evaluationid="5d18ad84-8609-4cac-86d4-766aa51da5c2"></div><div class="clasifica-feedback-game"></div><div class="clasifica-instructions"><p>Arrastra cada tarjeta hasta su contenedor.</p></div><div class="clasifica-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FE%F3%E1%FB%F4%FB%F1%F3%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%D3%E0%E0%F3%E1%E6%E0%F3%B2%F1%F3%F6%F3%B2%E6%F3%E0%F8%F7%E6%F3%B2%FA%F3%E1%E6%F3%B2%E1%E7%B2%F1%FD%FC%E6%F7%FC%F7%F6%FD%E0%BC%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%E1%FF%F3%FE%FE%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%FA%F7%F3%E4%EB%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%FE%FD%FC%F5%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%F6%F3%FC%F5%F7%E0%FD%E7%E1%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%E1%FD%F1%FB%F3%FE%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%E6%F3%FE%FE%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%F4%F3%E1%E6%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%F3%F5%F5%E0%F7%E1%E1%FB%E4%F7%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%F0%FB%F5%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%E1%FE%FD%E5%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A2%BC%AA%BE%B0%F5%E0%FD%E7%E2%E1%B0%A8%C9%B0%F3%F6%F8%F7%F1%E6%FB%E4%F7%B2%BA%BF%F7%E0%BB%B2%B9%B2%E6%FA%F3%FC%B0%BE%B0%FF%FD%E0%F7%B2%B9%B2%F3%F6%F8%F7%F1%E6%FB%E4%F7%B2%B9%B2%E6%FA%F3%FC%B0%BE%B0%D5%E0%E7%E2%FD%B2%A1%B0%BE%B0%D5%E0%E7%E2%FD%B2%A6%B0%BE%B0%D5%E0%E7%E2%FD%B2%A7%B0%BE%B0%D5%E0%E7%E2%FD%B2%A4%B0%BE%B0%D5%E0%E7%E2%FD%B2%A5%B0%BE%B0%D5%E0%E7%E2%FD%B2%AA%B0%BE%B0%D5%E0%E7%E2%FD%B2%AB%B0%CF%BE%B0%FC%E7%FF%F0%F7%E0%D5%E0%FD%E7%E2%E1%B0%A8%A0%BE%B0%F5%F3%FF%F7%DE%F7%E4%F7%FE%B0%A8%A3%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A7%F6%A3%AA%F3%F6%AA%A6%BF%AA%A4%A2%AB%BF%A6%F1%F3%F1%BF%AA%A4%F6%A6%BF%A5%A4%A4%F3%F3%A7%A3%F6%F3%A7%F1%A0%B0%BE%B0%FB%FF%F5%D1%F3%E0%F6%B0%A8%B0%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%AA%A1%A2%AB%A7%A7%A7%A0%A0%A7%BF%A2%E0%FD%FE%E5%E6%F5%E8%FC%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%CB%F7%E1%B0%A8%B0%C1%7F%B0%BE%B0%FF%E1%F5%DC%FD%B0%A8%B0%DC%FD%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%DD%E4%F7%E0%B0%A8%B0%C6%E7%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%F5%E1%D5%F3%FF%F7%C1%E6%F3%E0%E6%B0%A8%B03%D7%FE%B2%F8%E7%F7%F5%FD%B2%FA%F3%B2%F1%FD%FF%F7%FC%E8%F3%F6%FD%B3%B2%D3%E0%E0%F3%E1%E6%E0%F3%B2%F1%F3%F6%F3%B2%E6%F3%E0%F8%F7%E6%F3%B2%FA%F3%E1%E6%F3%B2%E1%E7%B2%F1%FD%FC%E6%F7%FC%F7%F6%FD%E0%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%D1%F3%E0%F6%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B2%FD%E6%E0%F3%B2%E6%F3%E0%F8%F7%E6%F3%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%D1%F3%E0%F6%DD%FC%F7%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B2%E7%FC%F3%B2%E6%F3%E0%F8%F7%E6%F3%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%C6%F7%E1%E6%C2%F3%E1%E1%F7%F6%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B23%C2%E0%E7%F7%F0%F3%B2%E1%E7%E2%F7%E0%F3%F6%F3%B3%B0%BE%B0%FF%E1%F5%C6%F7%E1%E6%D4%F3%FB%FE%F7%F6%B0%A8%B0%DC%FD%B2%FA%F3%E1%B2%E1%E7%E2%F7%E0%F3%F6%FD%B2%FE%F3%B2%E2%E0%E7%F7%F0%F3%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%D5%F3%FF%F7%B0%A8%B0-%D6%F7%E1%F7%F3%E1%B2%E0%F7%FB%FC%FB%F1%FB%F3%E0%B2%F7%E1%E6%F3%B2%E2%F3%E0%E6%FB%F6%F3%AD%B0%BE%B0%FF%E1%F5%D1%FD%FC%E6%FB%FC%E7%F7%B0%A8%B0%D1%FD%FC%E6%FB%FC%E7%F3%E0%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%D3%FC%E1%E5%F7%E0%E1%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B2%E0%F7%E1%E7%FE%E6%F3%F6%FD%E1%B0%BE%B0%FF%E1%F5%C7%FC%F3%FC%E1%E5%F7%E0%F7%F6%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%C6%F7%B2%FA%F3%FC%B2%E3%E7%F7%F6%F3%F6%FD%B2%B7%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%B2%E2%FD%E0%B2%F1%FD%FE%FD%F1%F3%E0%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%BC%B2-%C3%E7%FB%F7%E0%F7%E1%B2%FB%FC%E6%F7%FC%E6%F3%E0%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%AD%B0%BE%B0%FF%E1%F5%D3%FE%FE%D1%FD%E0%E0%F7%F1%E6%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B23%C6%FD%F6%FD%B2%E2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%C6%FD%FD%DF%F3%FC%EB%C6%E0%FB%F7%E1%B0%A8%B03%D7%E1%E6%E7%E2%F7%FC%F6%FD%B3%B2%DA%F3%E1%B2%E0%F7%E1%E7%F7%FE%E6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F7%FC%B2%B7%E1%B2%FB%FC%E6%F7%FC%E6%FD%E1%BC%B23%C1%F7%F5%E7%E0%FD%B2%E3%E7%F7%B2%E2%E7%F7%F6%F7%E1%B2%FA%F3%F1%F7%E0%FE%FD%B2%FFs%E1%B2%E0s%E2%FB%F6%FD%B3%B0%BE%B0%FF%E1%F5%C3%A7%B0%A8%B0%DC%FD%B2%FA%F3%E1%B2%F1%FD%FE%FD%F1%F3%F6%FD%B2%B7%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%B2%F7%FC%B2%E1%E7%B2%FE%E7%F5%F3%E0%BC%B23%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B3%B0%BE%B0%FF%E1%F5%C3%A5%B0%A8%B03%D7%E1%E6%E7%E2%F7%FC%F6%FD%B3%B2%DA%F3%E1%B2%F1%FE%F3%E1%FB%F4%FB%F1%F3%F6%FD%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%B2%FE%F3%B2%FF%F3%EB%FD%E0%B2%E2%F3%E0%E6%F7%B2%F6%F7%B2%FE%F3%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%BE%B2%B7%E1%BE%B2%E2%F7%E0%FD%B2%F3h%FC%B2%E2%E7%F7%F6%F7%E1%B2%FF%F7%F8%FD%E0%F3%E0%B0%BE%B0%FF%E1%F5%C3%AB%B0%A8%B03%DF%F3%F5%FC%7F%F4%FB%F1%FD%B3%B2%C6%F3%FC%B2%E1%FD%FE%FD%B2%E6%F7%B2%FA%F3%FC%B2%E3%E7%F7%F6%F3%F6%FD%B2%B7%E1%B2%E6%F3%E0%F8%F7%E6%F3%E1%B2%E2%FD%E0%B2%F1%FD%FE%FD%F1%F3%E0%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%BC%B2%D0%E7%E1%F1%F3%B2%FE%F3%B2%E2%F7%E0%F4%F7%F1%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D5%F3%FF%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F3%FE%B2%F4%FB%FC%F3%FE%FB%E8%F3%E0%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D5%F3%FF%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F3%FE%B2%F4%FB%FC%F3%FE%FB%E8%F3%E0%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%E1%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%E0%C1%F1%FD%E0%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%E1%B2%F5%E7%F3%E0%F6%F3%E0%B2%E6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%E0%F3%E1%B2%F4%FB%FC%F3%FE%FB%E8%F3%E0%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%BC%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FE%F3%E1%FB%F4%FB%F1%F3%B0%EF%EF</div><div class="clasifica-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moy4lzbh-9fkm7abbg</odePageId>
+      <odeBlockId>block-1778257041417-cb172db1z</odeBlockId>
+      <blockName>Games</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbh-9fkm7abbg</odePageId>
+          <odeBlockId>block-1778257041417-cb172db1z</odeBlockId>
+          <odeIdeviceId>idevice-1778257041415-ozoh56pzt</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://wordwall.net/es/embed/74ae34e93d9d4ceea3561de14a9d509d?themeId=1&templateId=5&fontStackId=0" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moy4lzbh-9fkm7abbg</odePageId>
+      <odeBlockId>block-1778256789034-qg0r8r29y</odeBlockId>
+      <blockName>Adjectives to describe animals</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbh-9fkm7abbg</odePageId>
+          <odeBlockId>block-1778256789034-qg0r8r29y</odeBlockId>
+          <odeIdeviceId>idevice-1778256789033-7vljfbdgd</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://wordwall.net/es/embed/6496a4d36eb448078a201675e819251a?themeId=2&templateId=10&fontStackId=0" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moy4lzbh-9fkm7abbg</odePageId>
+      <odeBlockId>block-1778256976251-yg448mxx0</odeBlockId>
+      <blockName>Games</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbh-9fkm7abbg</odePageId>
+          <odeBlockId>block-1778256976251-yg448mxx0</odeBlockId>
+          <odeIdeviceId>idevice-1778256976245-mgjy7nidy</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://wordwall.net/es/embed/ba4d3547b7044b61af8f9703a8620492?themeId=1&templateId=2&fontStackId=0" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moy4lzbh-9fkm7abbg</odePageId>
+      <odeBlockId>block-1778257083331-pebiu6cbn</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbh-9fkm7abbg</odePageId>
+          <odeBlockId>block-1778257083331-pebiu6cbn</odeBlockId>
+          <odeIdeviceId>idevice-1778257083328-1kybawipm</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://wordwall.net/es/embed/af86f8d186a849809c73f1700ea0b4f2?themeId=1&templateId=5&fontStackId=0" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moy4lzbh-9fkm7abbg</odePageId>
+      <odeBlockId>block-1778257103392-ndnb1ci54</odeBlockId>
+      <blockName>Games</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>6</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbh-9fkm7abbg</odePageId>
+          <odeBlockId>block-1778257103392-ndnb1ci54</odeBlockId>
+          <odeIdeviceId>idevice-1778257103391-ndvrz2fy6</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://wordwall.net/es/embed/3d0912d217284e64b33857ee15230017?themeId=1&templateId=5&fontStackId=0" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moy4lzbh-9fkm7abbg</odePageId>
+      <odeBlockId>block-1778257176234-23voadfq3</odeBlockId>
+      <blockName>Games</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>7</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbh-9fkm7abbg</odePageId>
+          <odeBlockId>block-1778257176234-23voadfq3</odeBlockId>
+          <odeIdeviceId>idevice-1778257176227-15c2rk740</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://wordwall.net/es/embed/ef3054afd41946e683577b4145c64a9b?themeId=45&templateId=72&fontStackId=0" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy4lzbj-prmv13a2q</odePageId>
+  <odeParentPageId>page-moy4lzbg-cg013mtjc</odeParentPageId>
+  <pageName>Sesión 3: Safari de investigación</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3: Safari de investigación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3: Safari de investigación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 3: Safari de investigación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy4lzbj-prmv13a2q</odePageId>
+      <odeBlockId>block-1778257260299-dbvw58lm7</odeBlockId>
+      <blockName>National Geographic kids</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbj-prmv13a2q</odePageId>
+          <odeBlockId>block-1778257260299-dbvw58lm7</odeBlockId>
+          <odeIdeviceId>idevice-1778257260296-04gmspl2c</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://kids.nationalgeographic.com/" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy4lzbj-3v3wd9yie</odePageId>
+  <odeParentPageId>page-moy4lzbg-cg013mtjc</odeParentPageId>
+  <pageName>Sesiones 4 y 5: Canva</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones 4 y 5: Canva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones 4 y 5: Canva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy4lzbj-3v3wd9yie</odePageId>
+      <odeBlockId>block-1778257601060-v05ut148k</odeBlockId>
+      <blockName>Acceso a Canva</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbj-3v3wd9yie</odePageId>
+          <odeBlockId>block-1778257601060-v05ut148k</odeBlockId>
+          <odeIdeviceId>idevice-1778257601055-69ywveo81</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><a href="https://www.canva.com/" title=""><img src="{{context_path}}/content/resources/image.png" width="1500" height="1500" alt="Enlace a canva" /></a></li>
+</ul>
+<p><br /></p>
+<p>Pincha en la imagen para acceder a Canva</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778257601055-69ywveo81","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><a href=\"https://www.canva.com/\" title=\"\"><img src=\"{{context_path}}/content/resources/image.png\" width=\"1500\" height=\"1500\" alt=\"Enlace a canva\" /></a></li>\n</ul>\n<p><br /></p>\n<p>Pincha en la imagen para acceder a Canva</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy4lzbk-k2csvcsc3</odePageId>
+  <odeParentPageId>page-moy4lzbg-cg013mtjc</odeParentPageId>
+  <pageName>Sesión 6: Ciberseguridad y licencias</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 6: Ciberseguridad y licencias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 6: Ciberseguridad y licencias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy4lzbk-k2csvcsc3</odePageId>
+      <odeBlockId>block-1778259227208-8krtuofra</odeBlockId>
+      <blockName>Genially guía de licencias</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbk-k2csvcsc3</odePageId>
+          <odeBlockId>block-1778259227208-8krtuofra</odeBlockId>
+          <odeIdeviceId>idevice-1778259227205-a3qnbafv6</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://view.genially.com/5dcbd45715ca7e0f99bff410" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy4lzbk-n2x554qxo</odePageId>
+  <odeParentPageId>page-moy4lzbg-cg013mtjc</odeParentPageId>
+  <pageName>Sesión 7: Presentación oral</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 7: Presentación oral</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 7: Presentación oral</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy4lzbk-n2x554qxo</odePageId>
+      <odeBlockId>block-1778258326085-h4nuuusoq</odeBlockId>
+      <blockName>Ejemplo de proyecto hecho en canva para presentar en el aula</blockName>
+      <iconName>perform</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbk-n2x554qxo</odePageId>
+          <odeBlockId>block-1778258326085-h4nuuusoq</odeBlockId>
+          <odeIdeviceId>idevice-1778258326081-66cgh1u0h</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://www.canva.com/design/DAHJGHxXZhU/S_dDUo_ZQyGWozu15Q980w/view?embed" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy4lzbl-dp6t9781u</odePageId>
+  <odeParentPageId>page-moy4lzbg-cg013mtjc</odeParentPageId>
+  <pageName>Sesión 8: Evaluation</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 8: Evaluation</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 8: Evaluation</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 8: Evaluation</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy4lzbl-dp6t9781u</odePageId>
+      <odeBlockId>block-1778245505397-tex2n2v7m</odeBlockId>
+      <blockName>Evaluación final para el alumnado: cuestionario</blockName>
+      <iconName>stop</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbl-dp6t9781u</odePageId>
+          <odeBlockId>block-1778245505397-tex2n2v7m</odeBlockId>
+          <odeIdeviceId>idevice-1778245505391-blmpc9nlz</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://wayground.com/join?gc=49096785" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moy4lzbl-dp6t9781u</odePageId>
+      <odeBlockId>block-1778310739706-mgfnod7ia</odeBlockId>
+      <blockName>Autoevaluación: lista de cotejo</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbl-dp6t9781u</odePageId>
+          <odeBlockId>block-1778310739706-mgfnod7ia</odeBlockId>
+          <odeIdeviceId>idevice-1778310739705-bjvryfuzp</odeIdeviceId>
+          <odeIdeviceTypeName>checklist</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="listacotejo-IDevice"><div class="listacotejo-instructions CTJ-instructions"><p>Completa la lista de cotejo marcando las casillas al realizar las actividades correspondientes.</p></div><div class="listacotejo-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%E6%F7%F8%FD%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%AA%A1%A3%A2%A5%A1%AB%A5%A2%A7%BF%F0%F8%E4%E0%EB%F4%E7%E8%E2%B0%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%D3%E7%E6%FD%F7%E4%F3%FE%E7%F3%F1%FBa%FC%B0%BE%B0%E1%E7%F0%E6%FB%E6%FE%F7%B0%A8%B0%B0%BE%B0%FE%F7%E4%F7%FE%E1%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%B0%A0%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%F0%AC%C4%FD%F1%F3%F0%E7%FE%F3%E0%FB%FD%AE%BD%F0%AC%A8%B2%C1%7B%B2%F6%F7%F1%FB%E0%B2%EB%B2%F7%E1%F1%E0%FB%F0%FB%E0%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%B2%F7%FE%B2%FC%FD%FF%F0%E0%F7%B2%F6%F7%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%A3%A2%B2%F3%FC%FB%FF%F3%FE%F7%E1%B2%E1%F3%FE%E4%F3%F8%F7%E1%BC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A0%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%F0%B2%F6%F3%E6%F3%BF%E2%F3%E6%FA%BF%E6%FD%BF%FC%FD%F6%F7%AF%CE%B0%A7%BE%A1%BE%A2%BE%A2%CE%B0%B2%F6%F3%E6%F3%BF%FB%FC%F6%F7%EA%BF%FB%FC%BF%FC%FD%F6%F7%AF%CE%B0%A2%CE%B0%AC%D1%FD%FF%E2%F3%E0%F3%E6%FB%E4%FD%E1%A8%AE%BD%F0%AC%B2%C1%7B%B2%F1%E7s%FC%F6%FD%B2%F3c%F3%F6%FB%E0%B2%AE%F0%B2%F6%F3%E6%F3%BF%E2%F3%E6%FA%BF%E6%FD%BF%FC%FD%F6%F7%AF%CE%B0%A7%BE%A1%BE%A2%BE%A2%CE%B0%B2%F6%F3%E6%F3%BF%FB%FC%F6%F7%EA%BF%FB%FC%BF%FC%FD%F6%F7%AF%CE%B0%A1%AA%CE%B0%AC%BF%F7%E0%B2%B9%B2%E6%FA%F3%FC%AE%BD%F0%AC%B2%F3%FE%B2%F3%F6%F8%F7%E6%FB%E4%FD%B2%FD%B2%AE%F0%AC%FF%FD%E0%F7%B2%B9%B2%F3%F6%F8%B2%B9%B2%E6%FA%F3%FC%B4%FC%F0%E1%E2%A9%AE%BD%F0%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A0%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%F0%B2%F6%F3%E6%F3%BF%E2%F3%E6%FA%BF%E6%FD%BF%FC%FD%F6%F7%AF%CE%B0%A7%BE%A4%BE%A2%BE%A2%CE%B0%B2%F6%F3%E6%F3%BF%FB%FC%F6%F7%EA%BF%FB%FC%BF%FC%FD%F6%F7%AF%CE%B0%A2%CE%B0%AC%D1%FB%F0%F7%E0%E1%F7%F5%E7%E0%FB%F6%F3%F6%A8%AE%BD%F0%AC%B2%C1%7B%B2%F0%E7%E1%F1%F3%E0%B2%FB%FFs%F5%F7%FC%F7%E1%B2%F7%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%F7%FC%B2%E1%FB%E6%FB%FD%E1%B2%E1%F7%F5%E7%E0%FD%E1%B2%E1%FB%FC%B2%E2%FD%FC%F7%E0%B2%F7%FC%B2%E0%FB%F7%E1%F5%FD%B2%FF%FB%E1%B2%F6%F3%E6%FD%E1%BC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A0%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%F0%B2%F6%F3%E6%F3%BF%E2%F3%E6%FA%BF%E6%FD%BF%FC%FD%F6%F7%AF%CE%B0%A7%BE%A5%BE%A2%BE%A2%CE%B0%B2%F6%F3%E6%F3%BF%FB%FC%F6%F7%EA%BF%FB%FC%BF%FC%FD%F6%F7%AF%CE%B0%A2%CE%B0%AC%C1%E2%F7%F3%F9%FB%FC%F5%A8%AE%BD%F0%AC%B2%C2%E7%F7%F6%FD%B2%FE%F7%F7%E0%B2%FF%FB%E1%B2%F4%E0%F3%E1%F7%E1%B2%F7%FC%B2%E4%FD%E8%B2%F3%FE%E6%F3%B2%F1%FD%FC%B2%E7%FC%F3%B2%F7%FC%E6%FD%FC%F3%F1%FBa%FC%B2%FC%F3%E6%E7%E0%F3%FE%BC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%CF%BE%B0%FA%F3%E1%DE%FD%F5%FD%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%DE%FD%F5%FD%B0%A8%B0%B0%BE%B0%FA%F3%E1%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%B0%B0%BE%B0%FA%F3%E1%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%B0%B0%BE%B0%E1%F3%E4%F7%D6%F3%E6%F3%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E1%F7%E0%D6%F3%E6%F3%B0%A8%F4%F3%FE%E1%F7%BE%B0%F4%FD%FD%E6%F7%E0%B0%A8%B0%D7%E1%E6%F3%B2%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%E1%A8%BD%BD%F7%E1%BC%E5%FB%F9%FB%E2%F7%F6%FB%F3%BC%FD%E0%F5%BD%E5%FB%F9%FB%BD%DE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%FF%E2%E0%FD%F0%F3%F1%FB%B7%D1%A1%B7%D0%A1%FC%AC%FE%FB%E1%E6%F3%B2%F6%F7%B2%F1%FD%E6%F7%F8%FD%AE%BD%F3%AC%B2%E1%F7%B2%F7%FC%F1%E7%F7%FC%E6%E0%F3%B2%F0%F3%F8%FD%B2%E7%FC%F3%B2%FE%FB%F1%F7%FC%F1%FB%F3%AE%BD%F0%E0%AC%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%A8%BD%BD%F1%E0%F7%F3%E6%FB%E4%F7%F1%FD%FF%FF%FD%FC%E1%BC%FD%E0%F5%BD%FE%FB%F1%F7%FC%E1%F7%E1%BD%F0%EB%BF%E1%F3%BD%A6%BC%A2%AC%D1%E0%F7%F3%E6%FB%E4%F7%B2%D1%FD%FF%FF%FD%FC%E1%B2%C0%F7%F1%FD%FC%FD%F1%FB%FF%FB%F7%FC%E6%FD%BF%D1%FD%FF%E2%F3%E0%E6%FB%E0%B2%FB%F5%E7%F3%FE%B2%A6%BC%A2%B2%DB%FC%E6%F7%E0%FC%F3%E6%FB%FD%FC%F3%FE%B2%DE%FB%F1%F7%FC%E1%F7%AE%BD%F3%AC%B0%BE%B0%E7%E1%F7%C1%F1%FD%E0%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%D1%FD%FF%E2%FE%FB%E6%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B0%BE%B0%FF%E1%F5%D6%FD%FC%F7%B0%A8%B0%DA%F7%F1%FA%FD%B0%BE%B0%FF%E1%F5%DB%FC%C2%E0%FD%F5%E0%F7%E1%E1%B0%A8%B0%D7%FC%B2%E2%E0%FD%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C7%FC%E0%F7%F3%FE%FB%E8%F7%F6%B0%A8%B0%C1%FB%FC%B2%F1%FD%FF%E2%FE%F7%E6%F3%E0%B0%BE%B0%FF%E1%F5%E6%F3%E1%F9%DC%E7%FF%F0%F7%E0%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E6%F3%E0%F7%F3%E1%B0%BE%B0%FF%E1%F5%DC%F3%FF%F7%B0%A8%B0%DC%FD%FF%F0%E0%F7%B0%BE%B0%FF%E1%F5%D6%F3%E6%F7%B0%A8%B0%D4%F7%F1%FA%F3%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%B0%A8%B0%D6%F7%E1%F1%F3%E0%F5%F3%E0%B0%BE%B0%FF%E1%F5%DE%FB%E1%E6%B0%A8%B0%FE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%E6%F7%F8%FD%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%B0%A8%B0%E2%E7%FC%E6%FD%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%D6%F7%FE%F7%E6%F7%B0%A8%B0-%C1%F7%F5%E7%E0%FD%B2%E3%E7%F7%B2%F6%F7%E1%F7%F3%B2%F0%FD%E0%E0%F3%E0%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%F1%F3%FF%E2%FD%E1%B2%F6%F7%FE%B2%F4%FD%E0%FF%E7%FE%F3%E0%FB%FD%AD%B0%EF%EF</div><div class="listacotejo-bns js-hidden">Navegador incompatible</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moy4lzbl-dp6t9781u</odePageId>
+      <odeBlockId>block-1778245630370-vwzznzk97</odeBlockId>
+      <blockName>Informe de progreso</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbl-dp6t9781u</odePageId>
+          <odeBlockId>block-1778245630370-vwzznzk97</odeBlockId>
+          <odeIdeviceId>idevice-1778245630368-cf79vypqj</odeIdeviceId>
+          <odeIdeviceTypeName>progress-report</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="informe-IDevice">
+                    <div class="informe-DataGame js-hidden">{"typeGame":"Progress Report","typeshow":0,"evaluationID":"5d18ad84-8609-4cac-86d4-766aa51da5c2","number":0,"showDate":true,"showTypeGame":true,"activeLinks":true,"userData":true,"sessionIdevices":[{"id":"page-mowx3u5l-srd1hu4wj","parentId":null,"title":"Información para el profesorado","navId":"page-mowx3u5l-srd1hu4wj","ode_nav_structure_sync_id":"page-mowx3u5l-srd1hu4wj","ode_session_id":"yjs-5d18ad84-8609-4cac-86d4-766aa51da5c2","ode_nav_structure_sync_order":0,"navIsActive":1,"components":[],"children":[{"id":"page-mowx3u5m-rgtvf5tjv","parentId":"page-mowx3u5l-srd1hu4wj","title":"Presentación y descripción del proyecto","navId":"page-mowx3u5m-rgtvf5tjv","ode_nav_structure_sync_id":"page-mowx3u5m-rgtvf5tjv","ode_session_id":"yjs-5d18ad84-8609-4cac-86d4-766aa51da5c2","ode_nav_structure_sync_order":0,"navIsActive":1,"components":[{"ideviceID":"idevice-1778170162700-sxmellto5","evaluationID":"","evaluation":null,"componentId":"idevice-1778170162700-sxmellto5","ode_pag_structure_sync_id":"block-1778170162706-f48y92qhw","componentSessionId":"yjs-5d18ad84-8609-4cac-86d4-766aa51da5c2","componentPageId":"page-mowx3u5m-rgtvf5tjv","ode_block_id":"block-1778170162706-f48y92qhw","blockName":"Presentación y descripción del proyecto","blockOrder":0,"ode_idevice_id":"idevice-1778170162700-sxmellto5","odeIdeviceTypeName":"text","ode_components_sync_order":0,"componentIsActive":1}],"children":[],"url":"presentacion-y-descripcion-del-proyecto"},{"id":"page-mowx3u5q-uazkcnt5i","parentId":"page-mowx3u5l-srd1hu4wj","title":"Curación de enlaces para maestros","navId":"page-mowx3u5q-uazkcnt5i","ode_nav_structure_sync_id":"page-mowx3u5q-uazkcnt5i","ode_session_id":"yjs-5d18ad84-8609-4cac-86d4-766aa51da5c2","ode_nav_structure_sync_order":1,"navIsActive":1,"components":[{"ideviceID":"idevice-1778187583374-649ec0p5b","evaluationID":"","evaluation":null,"componentId":"idevice-1778187583374-649ec0p5b","ode_pag_structure_sync_id":"block-1778187583376-iwnp0or0l","componentSessionId":"yjs-5d18ad84-8609-4cac-86d4-766aa51da5c2","componentPageId":"page-mowx3u5q-uazkcnt5i","ode_block_id":"block-1778187583376-iwnp0or0l","blockName":"Symbaloo: curación de contenido de utilidad para maestros","blockOrder":0,"ode_idevice_id":"idevice-1778187583374-649ec0p5b","odeIdeviceTypeName":"external-website","ode_components_sync_order":0,"componentIsActive":1}],"children":[],"url":"curacion-de-enlaces-para-maestros"},{"id":"page-mowx3u5r-oh8o86cny","parentId":"page-mowx3u5l-srd1hu4wj","title":"Guía didáctica","navId":"page-mowx3u5r-oh8o86cny","ode_nav_structure_sync_id":"page-mowx3u5r-oh8o86cny","ode_session_id":"yjs-5d18ad84-8609-4cac-86d4-766aa51da5c2","ode_nav_structure_sync_order":2,"navIsActive":1,"components":[{"ideviceID":"idevice-1778188943141-mou1ljq7h","evaluationID":"","evaluation":null,"componentId":"idevice-1778188943141-mou1ljq7h","ode_pag_structure_sync_id":"block-1778188943150-54fo398tx","componentSessionId":"yjs-5d18ad84-8609-4cac-86d4-766aa51da5c2","componentPageId":"page-mowx3u5r-oh8o86cny","ode_block_id":"block-1778188943150-54fo398tx","blockName":"Criterios de evaluacion","blockOrder":0,"ode_idevice_id":"idevice-1778188943141-mou1ljq7h","odeIdeviceTypeName":"text","ode_components_sync_order":0,"componentIsActive":1}],"children":[],"url":"guia-didactica"}],"url":"informacion-para-el-profesorado"},{"id":"page-mowx3u5u-hym9q5rdr","parentId":null,"title":"Stay Safe Online! Protección de datos personales y garantías de derechos digitales.","navId":"page-mowx3u5u-hym9q5rdr","ode_nav_structure_sync_id":"page-mowx3u5u-hym9q5rdr","ode_session_id":"yjs-5d18ad84-8609-4cac-86d4-766aa51da5c2","ode_nav_structure_sync_order":1,"navIsActive":1,"components":[{"ideviceID":"idevice-1778171608407-ziv20htn1","evaluationID":"","evaluation":null,"componentId":"idevice-1778171608407-ziv20htn1","ode_pag_structure_sync_id":"block-1778171608408-ouei4245b","componentSessionId":"yjs-5d18ad84-8609-4cac-86d4-766aa51da5c2","componentPageId":"page-mowx3u5u-hym9q5rdr","ode_block_id":"block-1778171608408-ouei4245b","blockName":"Mi seguridad online es importante","blockOrder":0,"ode_idevice_id":"idevice-1778171608407-ziv20htn1","odeIdeviceTypeName":"text","ode_components_sync_order":0,"componentIsActive":1}],"children":[],"url":"index"},{"id":"page-mowx3u5v-adi3grfur","parentId":null,"title":"Welcome to the wild! Proyecto","navId":"page-mowx3u5v-adi3grfur","ode_nav_structure_sync_id":"page-mowx3u5v-adi3grfur","ode_session_id":"yjs-5d18ad84-8609-4cac-86d4-766aa51da5c2","ode_nav_structure_sync_order":2,"navIsActive":1,"components":[{"ideviceID":"idevice-1778140860827-z1l3ljoct","evaluationID":"","evaluation":null,"componentId":"idevice-1778140860827-z1l3ljoct","ode_pag_structure_sync_id":"block-1778140860828-6yjpndbw2","componentSessionId":"yjs-5d18ad84-8609-4cac-86d4-766aa51da5c2","componentPageId":"page-mowx3u5v-adi3grfur","ode_block_id":"block-1778140860828-6yjpndbw2","blockName":"Welcome to the Wildest Challenge!","blockOrder":0,"ode_idevice_id":"idevice-1778140860827-z1l3ljoct","odeIdeviceTypeName":"text","ode_components_sync_order":0,"componentIsActive":1}],"children":[{"id":"page-mowx3u5x-wb3yysw35","parentId":"page-mowx3u5v-adi3grfur","title":"Tarea final descripción","navId":"page-mowx3u5x-wb3yysw35","ode_nav_structure_sync_id":"page-mowx3u5x-wb3yysw35","ode_session_id":"yjs-5d18ad84-8609-4cac-86d4-766aa51da5c2","ode_nav_structure_sync_order":0,"navIsActive":1,"components":[{"ideviceID":"idevice-1778186968448-84sac0qyq","evaluationID":"","evaluation":null,"componentId":"idevice-1778186968448-84sac0qyq","ode_pag_structure_sync_id":"block-1778188666807-ywfh91yj8","componentSessionId":"yjs-5d18ad84-8609-4cac-86d4-766aa51da5c2","componentPageId":"page-mowx3u5x-wb3yysw35","ode_block_id":"block-1778188666807-ywfh91yj8","blockName":"Descripción de la tarea final","blockOrder":0,"ode_idevice_id":"idevice-1778186968448-84sac0qyq","odeIdeviceTypeName":"text","ode_components_sync_order":0,"componentIsActive":1}],"children":[],"url":"tarea-final-descripcion"},{"id":"page-mowx3u5y-np1ok1btc","parentId":"page-mowx3u5v-adi3grfur","title":"Enlaces de interés","navId":"page-mowx3u5y-np1ok1btc","ode_nav_structure_sync_id":"page-mowx3u5y-np1ok1btc","ode_session_id":"yjs-5d18ad84-8609-4cac-86d4-766aa51da5c2","ode_nav_structure_sync_order":1,"navIsActive":1,"components":[{"ideviceID":"idevice-1778187685903-ds2c7ib66","evaluationID":"","evaluation":null,"componentId":"idevice-1778187685903-ds2c7ib66","ode_pag_structure_sync_id":"block-1778187685905-og7fajgw4","componentSessionId":"yjs-5d18ad84-8609-4cac-86d4-766aa51da5c2","componentPageId":"page-mowx3u5y-np1ok1btc","ode_block_id":"block-1778187685905-og7fajgw4","blockName":"Padlet de enlaces de ayuda para el proyecto","blockOrder":0,"ode_idevice_id":"idevice-1778187685903-ds2c7ib66","odeIdeviceTypeName":"external-website","ode_components_sync_order":0,"componentIsActive":1}],"children":[],"url":"enlaces-de-interes"},{"id":"page-mowx3u5z-evlxkjkrg","parentId":"page-mowx3u5v-adi3grfur","title":"Project Roadmap","navId":"page-mowx3u5z-evlxkjkrg","ode_nav_structure_sync_id":"page-mowx3u5z-evlxkjkrg","ode_session_id":"yjs-5d18ad84-8609-4cac-86d4-766aa51da5c2","ode_nav_structure_sync_order":2,"navIsActive":1,"components":[{"ideviceID":"idevice-1778188387840-vwvph75b0","evaluationID":"","evaluation":null,"componentId":"idevice-1778188387840-vwvph75b0","ode_pag_structure_sync_id":"block-1778188387841-99zpsq4pp","componentSessionId":"yjs-5d18ad84-8609-4cac-86d4-766aa51da5c2","componentPageId":"page-mowx3u5z-evlxkjkrg","ode_block_id":"block-1778188387841-99zpsq4pp","blockName":"Cronograma de la unidad","blockOrder":0,"ode_idevice_id":"idevice-1778188387840-vwvph75b0","odeIdeviceTypeName":"text","ode_components_sync_order":0,"componentIsActive":1}],"children":[],"url":"project-roadmap"}],"url":"welcome-to-the-wild-proyecto"},{"id":"page-mowx3u61-1asjqq4d5","parentId":null,"title":"Research Lab","navId":"page-mowx3u61-1asjqq4d5","ode_nav_structure_sync_id":"page-mowx3u61-1asjqq4d5","ode_session_id":"yjs-5d18ad84-8609-4cac-86d4-766aa51da5c2","ode_nav_structure_sync_order":3,"navIsActive":1,"components":[],"children":[],"url":"research-lab"},{"id":"page-mowx3u61-3i5rph88i","parentId":null,"title":"Evaluation","navId":"page-mowx3u61-3i5rph88i","ode_nav_structure_sync_id":"page-mowx3u61-3i5rph88i","ode_session_id":"yjs-5d18ad84-8609-4cac-86d4-766aa51da5c2","ode_nav_structure_sync_order":4,"navIsActive":1,"components":[{"ideviceID":"idevice-1778245505391-blmpc9nlz","evaluationID":"","evaluation":null,"componentId":"idevice-1778245505391-blmpc9nlz","ode_pag_structure_sync_id":"block-1778245505397-tex2n2v7m","componentSessionId":"yjs-5d18ad84-8609-4cac-86d4-766aa51da5c2","componentPageId":"page-mowx3u61-3i5rph88i","ode_block_id":"block-1778245505397-tex2n2v7m","blockName":"Evaluación final para el alumnado: cuestionario","blockOrder":0,"ode_idevice_id":"idevice-1778245505391-blmpc9nlz","odeIdeviceTypeName":"external-website","ode_components_sync_order":0,"componentIsActive":1},{"ideviceID":"idevice-1778245630368-cf79vypqj","evaluationID":"","evaluation":null,"componentId":"idevice-1778245630368-cf79vypqj","ode_pag_structure_sync_id":"block-1778245630370-vwzznzk97","componentSessionId":"yjs-5d18ad84-8609-4cac-86d4-766aa51da5c2","componentPageId":"page-mowx3u61-3i5rph88i","ode_block_id":"block-1778245630370-vwzznzk97","blockName":"Informe de progreso","blockOrder":1,"ode_idevice_id":"idevice-1778245630368-cf79vypqj","odeIdeviceTypeName":"progress-report","ode_components_sync_order":0,"componentIsActive":1}],"children":[],"url":"evaluation"},{"id":"page-mowx3u61-iffh22yba","parentId":null,"title":"Créditos","navId":"page-mowx3u61-iffh22yba","ode_nav_structure_sync_id":"page-mowx3u61-iffh22yba","ode_session_id":"yjs-5d18ad84-8609-4cac-86d4-766aa51da5c2","ode_nav_structure_sync_order":5,"navIsActive":1,"components":[],"children":[],"url":"creditos"}],"msgs":{"msgSummary":"Resumen de las actividades","msgNoCompletedActivities":"No has completado ninguna de las actividades sugeridas para ser evaluado.","msgNoPendientes":"Número de actividades pendientes: %s.","msgCompletedActivities":"La siguiente tabla recoge los resultados que has obtenido en las actividades evaluables propuestas en este recurso educativo que ya has completado.","msgAverageScore":"Nota media","msgReboot":"Reiniciar","msgReload":"Edita este iDevice para actualizar su contenido.","mssActivitiesNumber":"Nº de actividades: %s","msgActivitiesCompleted":"Completadas: %s","msgAverageScore1":"Nota media: %s","msgAverageScoreCompleted":"Nota media de las actividades completadas: %s","msgDelete":"Esto eliminará las puntuaciones almacenadas de todas las actividades ¿Estás seguro de que deseas continuar?","msgSections":"Secciones del recurso educativo","msgSave":"Guardar","msgReport":"informe_de_progreso","msgReportTitle":"Informe de progreso","msgType":"Tipo","msgSeeActivity":"Ir a la actividad","mgsSections":"Secciones del recurso educativo","msgName":"Nombre","msgDate":"Fecha","msgNotCompleted":"Sin completar","msgNotData":"Error al recuperar los datos","msgScoredActivities":"Actividades calificadas","msgInEXE":"En modo de vista previa, visita este informe de progreso para ver el estado de todas las actividades calificadas asociadas. Este estado puede ser:","msgInEXE2":"Este mensaje solo se mostrará en modo de edición.","msgUncompletedActivity":"Actividad no completada","msgUnsuccessfulActivity":"Actividad no exitosa","msgSuccessfulActivity":"Actividad exitosa","msgLocalMode":"Los resultados de las actividades no se pueden mostrar dentro de la aplicación.","msgDownload":"Descargar el informe de progreso"}}</div>
+                    <div class="informe-bns js-hidden">undefined</div>
+                </div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy4lzbm-0noi9bghn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📊 Evaluation</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy4lzbm-0noi9bghn</odePageId>
+      <odeBlockId>block-1778313434613-chioh5bxu</odeBlockId>
+      <blockName>Información del recurso</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbm-0noi9bghn</odePageId>
+          <odeBlockId>block-1778313434613-chioh5bxu</odeBlockId>
+          <odeIdeviceId>idevice-1778313434610-m7ps5mpxl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría</strong>: Carmen Quintero.<br /><br /><strong>Descripción del Recurso:</strong> Este Recurso Educativo Abierto (REA) ha sido diseñado para integrar la competencia lingüística en inglés con la competencia digital docente. A través de un enfoque basado en proyectos (ABP), el alumnado investiga sobre la fauna salvaje, desarrolla destrezas de ciberseguridad y crea productos multimodales en Canva.</p>
+<p><br /><strong>Licencia de uso:</strong> Este material se publica bajo la licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0). Esto permite a otros docentes descargar, editar y adaptar el recurso siempre que se reconozca la autoría original y no se utilice con fines comerciales.</p>
+<p><br /><br /><img src="{{context_path}}/content/resources/CC_BY-NC-SA.svg.png" width="200" height="70" alt="" /><br /></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778313434610-m7ps5mpxl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría</strong>: Carmen Quintero.<br /><br /><strong>Descripción del Recurso:</strong> Este Recurso Educativo Abierto (REA) ha sido diseñado para integrar la competencia lingüística en inglés con la competencia digital docente. A través de un enfoque basado en proyectos (ABP), el alumnado investiga sobre la fauna salvaje, desarrolla destrezas de ciberseguridad y crea productos multimodales en Canva.</p>\n<p><br /><strong>Licencia de uso:</strong> Este material se publica bajo la licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0). Esto permite a otros docentes descargar, editar y adaptar el recurso siempre que se reconozca la autoría original y no se utilice con fines comerciales.</p>\n<p><br /><br /><img src=\"{{context_path}}/content/resources/CC_BY-NC-SA.svg.png\" width=\"200\" height=\"70\" alt=\"\" /><br /></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moy4lzbm-0noi9bghn</odePageId>
+      <odeBlockId>block-1778316424837-4rycu4hij</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy4lzbm-0noi9bghn</odePageId>
+          <odeBlockId>block-1778316424837-4rycu4hij</odeBlockId>
+          <odeIdeviceId>idevice-1778316424835-vxyl4hvcx</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Wild animals</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Esta unidad trata de desarrollar un tema de inglés para el curso de 5º de Primaria que trata sobre los animales salvajes. </span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Carmen Quintero Vázquez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
